@@ -1,0 +1,360 @@
+/*
+ * .cnnViewerAd { background-image:url('http://i.cdn.turner.com/si/.element/img/4.0/global/viewer_background_noline_nopad.gif');background-position:center bottom;background-repeat:no-repeat;border:0px;padding:6px 0px 7px 0px;width:1000px; }
+ * .cnnContent { border:0px;padding:0px 6px 6px 6px;width:988px; }
+ * */
+.cnnViewerAd { background-image:url('http://i.cdn.turner.com/si/.element/img/4.0/global/viewer_background_nopad.gif');background-position:center bottom;background-repeat:no-repeat;border:0px;padding:6px 0px 7px 0px;width:1000px; }
+.cnnContent { padding:0px 5px 5px 5px;width:988px; }
+.cnnMainFooter { margin:6px 0px 0px 0px; }
+.cnnMainFooter TABLE { width:986px; }
+
+.cnnStoryContentTable { width:988px; }
+.cnnStoryContentArea { padding:6px 0px 0px 0px;vertical-align:top;width:822px; }
+.cnnStoryContent { background-image:url('http://i.cdn.turner.com/si/images/misc/blank_pixel.gif');font-size:11px;line-height:14px; }
+.cnnStoryContent A { color:#c00; }
+.cnnStoryContent A:hover { color:#c00; }
+
+.cnnTowerAd { text-align:center;width:160px; }
+.cnnTowerAd TABLE { margin:auto; }
+.cnnTowerAd DIV { margin:auto; }
+
+.cnnWideSL { padding-top:6px; }
+
+.cnnContentClear { clear:both; }
+.cnnContentClear IMG { height:1px;width:790px; }
+
+.cnnRightRail { padding:6px 0px 6px 6px;vertical-align:top; }
+
+.cnnStatsLogo { color:#666;line-height:21px;padding-top:6px;text-align:right; }
+.cnnStatsLogo IMG { vertical-align:middle; }
+.cnnStatsLogo A { color:#666; }
+.cnnStatsLogo A:hover { color:#c00; }
+
+.cnnStatsContent { border:1px solid #ccc;padding-bottom:6px; }
+.cnnStatsContentTable { width:988px; }
+.cnnStatsContentArea { font-size:10px;padding:6px 0px 0px 0px;vertical-align:top;width:822px; }
+.cnnStatsContent { background-image:url('http://i.cdn.turner.com/si/images/misc/blank_pixel.gif');font-size:11px;line-height:14px; }
+.cnnStatsContent A { color:#c00; }
+.cnnStatsContent A:hover { color:#c00; }
+/* ---- */
+.cnnSASD_page-conference_standings .cnnStatsContent { padding-bottom:0px; }
+
+.cnnSASD_content { margin:0px 6px;width:908px; }
+.cnnSASD_content H1 { border-bottom:1px solid #ccc;color:#5a6373;font-size:22px;line-height:30px;margin:0px 0px 6px 0px;padding:6px 0px; }
+.cnnSASD_content H1 SPAN { border-right:1px solid #ccc;margin:0px 6px 0px 0px;padding-right:6px; }
+.cnnSASD_content H1 SPAN IMG { margin-left:6px;vertical-align:bottom; }
+.cnnSASD_content H1 A { color:#5a6373; }
+.cnnSASD_content H1 A:hover { color:#5a6373; }
+.cnnSASD_content H1 .cnnRight { float:right;margin:5px -6px 0px 0px; }
+.cnnSASD_content H1 .cnnRight TD { border-left:1px solid #ccc;padding:0px 6px; }
+.cnnSASD_content H1 .cnnRight TD.cnnCol0 { border-left:0px; }
+.cnnSASD_content H1 .cnnRight A { background-image:url(http://i.cdn.turner.com/si/.element/img/4.0/global/arrows/gray_on_white_4x8.gif);background-position:0px 2px;background-repeat:no-repeat;color:#5a6373;font-size:10px;line-height:20px;padding:0px 6px; }
+.cnnSASD_content H1 .cnnRight A:hover { color:#c00; }
+.cnnSASD_content H2 { color:#5a6373;font-size:12px;margin:0px;padding:12px 0px;text-align:center; }
+.cnnSASD_content H2 .cnnLeft { float:left;margin:-4px 0px;width:225px; }
+.cnnSASD_content H2 .cnnRight { float:right;margin:-4px 3px;*margin-right:0px;text-align:right;width:225px; }
+.cnnSASD_content H2 .cnnRight TABLE { border:0px;margin:0px;width:100%; }
+.cnnSASD_content H2 .cnnRight TD { border:0px;padding:0px!important;text-align:right; }
+.cnnSASD_content A { color:#333; }
+.cnnSASD_content A:hover { color:#c00; }
+.cnnSASD_content H1 SELECT,
+.cnnSASD_content H2 SELECT { width:225px; }
+/* ---- */
+.cnnSASD_page-conference_standings .cnnSASD_content H1 { margin:0px; }
+.cnnSASD_page-conference_leaders .cnnSASD_content H1 { margin:0px; }
+.cnnSASD_page-conference_schedules .cnnSASD_content H1 { margin:0px; }
+.cnnSASD_page-conference_scoreboard .cnnSASD_content H1 { margin:0px; }
+.cnnSASD_page-player .cnnSASD_content H1 .cnnRight { margin:5px 0px 0px 0px;*margin-top:0px; }
+
+.cnnPlayerSearch TD { border:0px!important;padding:0px!important; }
+.cnnPlayerSearch TD.cnnCol0 INPUT { color:#bbb;font-weight:bold;margin-right:6px;text-align:center; }
+.cnnPlayerSearch TD.cnnCol1 { font-size:10px;font-weight:bold;line-height:10px;padding-left:6px; }
+.cnnPlayerSearch TD.cnnCol1 A { background-image:url('http://i.cdn.turner.com/si/.element/img/4.0/global/buttons/red_white_small_M.gif');color:#fff;display:block;height:16px;text-decoration:none; }
+.cnnPlayerSearch TD.cnnCol1 A:hover { color:#fc0; }
+.cnnPlayerSearch TD.cnnCol1 A SPAN { background-image:url('http://i.cdn.turner.com/si/.element/img/4.0/global/buttons/red_white_small_R.gif');background-repeat:no-repeat;background-position:top right;border:none;display:block;margin:auto;padding:0px 5px 0px 0px;width:auto; }
+.cnnPlayerSearch TD.cnnCol1 A SPAN SPAN { background-image:url('http://i.cdn.turner.com/si/.element/img/4.0/global/buttons/red_white_small_L.gif');background-repeat:no-repeat;background-position:top left;display:block;padding:3px 1px 3px 5px; }
+.cnnSASD_content H1 .cnnRight .cnnPlayerSearch TD.cnnCol1 A { background-position:0px 0px;background-repeat:repeat;line-height:10px;padding:0px; }
+
+.cnnSASD_pagetabs { background-image:url('http://i.cdn.turner.com/si/.element/img/4.0/global/pixels/cccccc.gif');background-position:left bottom;background-repeat:repeat-x;padding-top:6px;text-align:center; }
+.cnnSASD_pagetabs TABLE { border:0px solid #ccc;border-width:1px 1px 0px 0px;margin:auto; }
+.cnnSASD_pagetabs TABLE TD { border-left:1px solid #ccc;color:#c00;font-size:10px;font-weight:bold;text-align:center;white-space:nowrap; }
+.cnnSASD_pagetabs TABLE TD.cnnTabOn { border-bottom:1px solid #fff;color:#c00;padding:6px 4px;width:150px; }
+.cnnSASD_pagetabs TABLE TD A { background-color:#e7e7e7;border-bottom:1px solid #ccc;color:#000;display:block;padding:6px 4px;width:150px; }
+.cnnSASD_pagetabs TABLE TD A:hover { background-color:#fff;color:#c00; }
+/* ---- */
+.cnnSASD_page-leaders .cnnSASD_pagetabs TABLE TD.cnnTabOn,
+.cnnSASD_page-leaders .cnnSASD_pagetabs TABLE TD A { width:160px; }
+.cnnSASD_page-standings_all .cnnSASD_pagetabs TABLE TD.cnnTabOn,
+.cnnSASD_page-standings_all .cnnSASD_pagetabs TABLE TD A { width:145px; }
+.cnnSASD_page-stats .cnnSASD_pagetabs TABLE TD.cnnTabOn,
+.cnnSASD_page-stats .cnnSASD_pagetabs TABLE TD A,
+.cnnSASD_page-schedules .cnnSASD_pagetabs TABLE TD.cnnTabOn,
+.cnnSASD_page-schedules .cnnSASD_pagetabs TABLE TD A,
+.cnnSASD_page-roster .cnnSASD_pagetabs TABLE TD.cnnTabOn,
+.cnnSASD_page-roster .cnnSASD_pagetabs TABLE TD A,
+.cnnSASD_page-injuries .cnnSASD_pagetabs TABLE TD.cnnTabOn,
+.cnnSASD_page-injuries .cnnSASD_pagetabs TABLE TD A,
+.cnnSASD_page-transactions .cnnSASD_pagetabs TABLE TD.cnnTabOn,
+.cnnSASD_page-transactions .cnnSASD_pagetabs TABLE TD A { width:124px; }
+
+.cnnSASD_posted { border-bottom:1px solid #ccc;color:#999;font-size:9px; }
+.cnnSASD_posted DIV { padding:6px 0px; }
+
+.cnnSASD_posted .cnnStubHub { background-image:url('http://i.cdn.turner.com/si/.element/img/4.0/stats/global/stubhub.jpg');background-position:0px 3px;background-repeat:no-repeat;float:right;font-weight:bold; }
+.cnnSASD_posted .cnnStubHub A { color:#5a6373;padding:0px 0px 0px 54px; }
+.cnnSASD_posted .cnnStubHub A:hover { color:#c00; }
+
+.cnnSASD_splits { padding-top:8px;margin-bottom:-8px;text-align:center; }
+.cnnSASD_splits TABLE { margin:auto; }
+.cnnSASD_splits SELECT { width:225px; }
+.cnnSASD_splits TD { font-weight:bold;font-size:10px;line-height:10px;padding:0px 3px;vertical-align:middle; }
+.cnnSASD_splits TD A { background-image:url('http://i.cdn.turner.com/si/.element/img/4.0/global/buttons/red_white_small_M.gif');color:#fff;display:block;height:16px;text-decoration:none; }
+.cnnSASD_splits TD A:hover { color:#fc0; }
+.cnnSASD_splits TD A SPAN { background-image:url('http://i.cdn.turner.com/si/.element/img/4.0/global/buttons/red_white_small_R.gif');background-repeat:no-repeat;background-position:top right;border:none;display:block;margin:auto;padding:0px 5px 0px 0px;width:auto; }
+.cnnSASD_splits TD A SPAN SPAN { background-image:url('http://i.cdn.turner.com/si/.element/img/4.0/global/buttons/red_white_small_L.gif');background-repeat:no-repeat;background-position:top left;display:block;padding:3px 1px 3px 5px; }
+
+/* team stats */
+.cnnSASD_stats TABLE { border:0px solid #ccc;border-width:1px 1px 0px 1px;width:100%; }
+.cnnSASD_stats TABLE TD { border:0px solid #ccc;border-width:0px 0px 1px 1px;color:#333;font-size:10px;padding:6px;text-align:center;white-space:nowrap; }
+.cnnSASD_stats TABLE TD IMG { margin-right:4px;vertical-align:middle; }
+.cnnSASD_stats TABLE TD.cnnCol0 { border-left:0px;white-space:nowrap; }
+.cnnSASD_stats TABLE TD.cnnCol1 { font-weight:bold;width:33%; }
+.cnnSASD_stats TABLE TD.cnnColHighlight { background-color:#e7e7e7; }
+.cnnSASD_stats TABLE .cnnRow0 TD { font-weight:bold;padding:6px 1px;white-space:nowrap; }
+.cnnSASD_stats TABLE .cnnRow1 TD { border-bottom:3px solid #ccc;font-weight:bold;padding:6px 12px;white-space:nowrap; }
+.cnnSASD_stats TABLE .cnnRow1 TD.cnnCol0 { padding:6px; }
+.cnnSASD_stats TABLE .cnnRow2 TD { background-color:#fff; }
+.cnnSASD_stats TABLE .cnnRow2 TD.cnnCol1 { text-align:left; }
+.cnnSASD_stats TABLE .cnnRow2 TD.cnnColHighlight { background-color:#e7e7e7; }
+.cnnSASD_stats TABLE .cnnRow3 TD { background-color:#e7e7e7; }
+.cnnSASD_stats TABLE .cnnRow3 TD.cnnCol1 { text-align:left; }
+.cnnSASD_stats TABLE .cnnRow4 TD { font-weight:bold;padding:6px 3px; }
+.cnnSASD_stats TABLE .cnnRow4 TD.cnnCol0 { text-align:right;padding:6px; }
+.cnnSASD_statfooter { padding-top:6px; }
+/* ---- */
+.cnnSASD_page-expanded_stats .cnnSASD_stats TABLE .cnnRow1 TD { padding:6px 8px; }
+.cnnSASD_page-expanded_stats .cnnSASD_stats TABLE .cnnRow1 TD.cnnCol0 { padding:6px; }
+.cnnSASD_page-expanded_stats .conferenceIndividualPassingEfficiencyStats .cnnSASD_stats TABLE .cnnRow2 TD.cnnCol2,
+.cnnSASD_page-expanded_stats .conferenceIndividualPassingEfficiencyStats .cnnSASD_stats TABLE .cnnRow3 TD.cnnCol2 { text-align:left; }
+.cnnSASD_page-expanded_stats .conferenceIndividualPassingEfficiencyStats .cnnSASD_stats TABLE TD.cnnCol1,
+.cnnSASD_page-expanded_stats .conferenceIndividualPassingEfficiencyStats .cnnSASD_stats TABLE TD.cnnCol2 { width:25%; }
+.cnnSASD_page-expanded_stats .divisionIndividualAllPurposeRunningStats .cnnSASD_stats TABLE .cnnRow2 TD.cnnCol2,
+.cnnSASD_page-expanded_stats .divisionIndividualAllPurposeRunningStats .cnnSASD_stats TABLE .cnnRow3 TD.cnnCol2,
+.cnnSASD_page-expanded_stats .divisionIndividualInterceptionsStats .cnnSASD_stats TABLE .cnnRow2 TD.cnnCol2,
+.cnnSASD_page-expanded_stats .divisionIndividualInterceptionsStats .cnnSASD_stats TABLE .cnnRow3 TD.cnnCol2,
+.cnnSASD_page-expanded_stats .divisionIndividualKickingStats .cnnSASD_stats TABLE .cnnRow2 TD.cnnCol2,
+.cnnSASD_page-expanded_stats .divisionIndividualKickingStats .cnnSASD_stats TABLE .cnnRow3 TD.cnnCol2,
+.cnnSASD_page-expanded_stats .divisionIndividualKickoffReturnsStats .cnnSASD_stats TABLE .cnnRow2 TD.cnnCol2,
+.cnnSASD_page-expanded_stats .divisionIndividualKickoffReturnsStats .cnnSASD_stats TABLE .cnnRow3 TD.cnnCol2,
+.cnnSASD_page-expanded_stats .divisionIndividualPassingEfficiencyStats .cnnSASD_stats TABLE .cnnRow2 TD.cnnCol2,
+.cnnSASD_page-expanded_stats .divisionIndividualPassingEfficiencyStats .cnnSASD_stats TABLE .cnnRow3 TD.cnnCol2,
+.cnnSASD_page-expanded_stats .divisionIndividualPassingStats .cnnSASD_stats TABLE .cnnRow2 TD.cnnCol2,
+.cnnSASD_page-expanded_stats .divisionIndividualPassingStats .cnnSASD_stats TABLE .cnnRow3 TD.cnnCol2,
+.cnnSASD_page-expanded_stats .divisionIndividualPuntReturnsStats .cnnSASD_stats TABLE .cnnRow2 TD.cnnCol2,
+.cnnSASD_page-expanded_stats .divisionIndividualPuntReturnsStats .cnnSASD_stats TABLE .cnnRow3 TD.cnnCol2,
+.cnnSASD_page-expanded_stats .divisionIndividualPuntingStats .cnnSASD_stats TABLE .cnnRow2 TD.cnnCol2,
+.cnnSASD_page-expanded_stats .divisionIndividualPuntingStats .cnnSASD_stats TABLE .cnnRow3 TD.cnnCol2,
+.cnnSASD_page-expanded_stats .divisionIndividualReceivingStats .cnnSASD_stats TABLE .cnnRow2 TD.cnnCol2,
+.cnnSASD_page-expanded_stats .divisionIndividualReceivingStats .cnnSASD_stats TABLE .cnnRow3 TD.cnnCol2,
+.cnnSASD_page-expanded_stats .divisionIndividualRushingStats .cnnSASD_stats TABLE .cnnRow2 TD.cnnCol2,
+.cnnSASD_page-expanded_stats .divisionIndividualRushingStats .cnnSASD_stats TABLE .cnnRow3 TD.cnnCol2,
+.cnnSASD_page-expanded_stats .divisionIndividualScoringStats .cnnSASD_stats TABLE .cnnRow2 TD.cnnCol2,
+.cnnSASD_page-expanded_stats .divisionIndividualScoringStats .cnnSASD_stats TABLE .cnnRow3 TD.cnnCol2,
+.cnnSASD_page-expanded_stats .divisionIndividualTotalOffenseStats .cnnSASD_stats TABLE .cnnRow2 TD.cnnCol2,
+.cnnSASD_page-expanded_stats .divisionIndividualTotalOffenseStats .cnnSASD_stats TABLE .cnnRow3 TD.cnnCol2 { text-align:left; }
+.cnnSASD_page-expanded_stats .divisionIndividualPassingStats .cnnSASD_stats TABLE TD.cnnCol1,
+.cnnSASD_page-expanded_stats .divisionIndividualPassingStats .cnnSASD_stats TABLE TD.cnnCol2 { width:20%; }
+.cnnSASD_page-expanded_stats .divisionTeamPassingStats .cnnSASD_stats TABLE TD.cnnCol0 { width:8%; }
+.cnnSASD_page-expanded_stats .divisionTeamPassingStats .cnnSASD_stats TABLE TD.cnnCol1 { width:20%; }
+.cnnSASD_page-expanded_stats .divisionTeamPassingStats .cnnSASD_stats TABLE TD.cnnCol2,
+.cnnSASD_page-expanded_stats .divisionTeamPassingStats .cnnSASD_stats TABLE TD.cnnCol3,
+.cnnSASD_page-expanded_stats .divisionTeamPassingStats .cnnSASD_stats TABLE TD.cnnCol4,
+.cnnSASD_page-expanded_stats .divisionTeamPassingStats .cnnSASD_stats TABLE TD.cnnCol5,
+.cnnSASD_page-expanded_stats .divisionTeamPassingStats .cnnSASD_stats TABLE TD.cnnCol6,
+.cnnSASD_page-expanded_stats .divisionTeamPassingStats .cnnSASD_stats TABLE TD.cnnCol7 { width:12%; }
+.cnnSASD_page-leaders .cnnSASD_stats TABLE .cnnRow2 TD.cnnCol2,
+.cnnSASD_page-leaders .cnnSASD_stats TABLE .cnnRow3 TD.cnnCol2 { text-align:left; }
+.cnnSASD_page-roster .cnnSASD_stats TABLE .cnnRow1 TD { padding:6px 24px; }
+.cnnSASD_page-roster .cnnSASD_stats TABLE .cnnRow1 TD.cnnCol0 { padding:6px; }
+.cnnSASD_page-stats .cnnSASD_stats TABLE .cnnRow1 TD { padding:6px 24px; }
+.cnnSASD_page-stats .cnnSASD_stats TABLE .cnnRow1 TD.cnnCol0 { padding:6px; }
+.cnnSASD_page-standings .cnnSASD_stats TABLE { margin-top:6px; }
+.cnnSASD_page-standings .cnnSASD_stats TABLE TD.cnnCol0 { font-weight:bold;text-align:left;width:100%; }
+.cnnSASD_page-standings .cnnSASD_stats TABLE TD.cnnCol1 { font-weight:normal;text-align:center;width:auto; }
+.cnnSASD_page-standings .cnnSASD_stats TABLE .cnnRow0 TD { font-weight:bold;padding:3px; }
+.cnnSASD_page-standings .cnnSASD_stats TABLE .cnnRow0 TD.cnnCol0 { border-bottom:3px solid #ccc; }
+.cnnSASD_page-standings .cnnSASD_stats TABLE .cnnRow1 TD { font-weight:bold;padding:6px 9px; }
+.cnnSASD_page-conference_standings .cnnSASD_stats TABLE { margin-bottom:6px; }
+.cnnSASD_page-conference_standings .cnnSASD_stats TABLE TD.cnnCol0 { font-weight:bold;text-align:left;width:100%; }
+.cnnSASD_page-conference_standings .cnnSASD_stats TABLE TD.cnnCol1 { font-weight:normal;text-align:center;width:auto; }
+.cnnSASD_page-conference_standings .cnnSASD_stats TABLE .cnnRow0 TD { font-weight:bold;padding:3px; }
+.cnnSASD_page-conference_standings .cnnSASD_stats TABLE .cnnRow0 TD.cnnCol0 { border-bottom:3px solid #ccc;padding:6px;vertical-align:bottom; }
+.cnnSASD_page-conference_standings .cnnSASD_stats TABLE .cnnRow1 TD { font-weight:bold;padding:6px 10px; }
+.cnnSASD_page-schedules .cnnSASD_stats TABLE TD { height:30px;padding:0px 6px; }
+.cnnSASD_page-schedules .cnnSASD_stats TABLE TD.cnnCol1 { font-weight:normal;text-align:center;width:auto; }
+.cnnSASD_page-schedules .cnnSASD_stats TABLE TD.cnnCol4 { border-left:0px;padding-left:0px;text-align:left;white-space:nowrap;width:100%; }
+.cnnSASD_page-schedules .cnnSASD_stats TABLE TD.cnnCol4 A { font-weight:bold; }
+.cnnSASD_page-schedules .cnnSASD_stats TABLE TD.cnnCol4 IMG { margin:1px 4px; }
+.cnnSASD_page-schedules .cnnSASD_stats TABLE .cnnRow1 TD { font-weight:bold; padding:6px 30px; }
+.cnnSASD_page-schedules .cnnSASD_stats TABLE .cnnRow1 TD.cnnCol4 { border-left:1px solid #ccc; }
+.cnnSASD_page-schedules .cnnSASD_stats TABLE .cnnRow2 TD.cnnEmpty { background-color:#e7e7e7; }
+.cnnSASD_page-schedules .cnnSASD_stats H2 TABLE TD { height:auto;padding:0px; }
+.cnnSASD_page-conference_schedules .cnnSASD_stats TABLE TD { height:30px;padding:0px 6px; }
+.cnnSASD_page-conference_schedules .cnnSASD_stats TABLE TD.cnnCol1 { font-weight:normal;text-align:center;width:auto; }
+.cnnSASD_page-conference_schedules .cnnSASD_stats TABLE TD.cnnCol2 { padding-right:4px;text-align:left;white-space:nowrap; }
+.cnnSASD_page-conference_schedules .cnnSASD_stats TABLE TD.cnnCol2 A { font-weight:bold; }
+.cnnSASD_page-conference_schedules .cnnSASD_stats TABLE TD.cnnCol2 IMG { margin:1px 4px; }
+.cnnSASD_page-conference_schedules .cnnSASD_stats TABLE .cnnRow1 TD { font-weight:bold;padding:6px 30px; }
+.cnnSASD_page-conference_schedules .cnnSASD_stats TABLE .cnnRow1 TD.cnnCol4 { border-left:1px solid #ccc; }
+.cnnSASD_page-conference_schedules .cnnSASD_stats TABLE .cnnRow2 TD.cnnEmpty { background-color:#e7e7e7; }
+.cnnSASD_page-conference_schedules .cnnSASD_stats H2 TABLE TD { height:auto;padding:0px; }
+.cnnSASD_page-injuries .cnnSASD_stats TABLE TD.cnnCol1 { white-space:nowrap; }
+.cnnSASD_page-injuries .cnnSASD_stats TABLE TD.cnnCol2 { text-align:left; }
+.cnnSASD_page-injuries .cnnSASD_stats TABLE TD.cnnCol3 { text-align:left;width:100%; }
+.cnnSASD_page-transactions .cnnSASD_stats TABLE TD.cnnCol0 { width:0%; }
+.cnnSASD_page-transactions .cnnSASD_stats TABLE TD.cnnCol1 { font-weight:normal;width:100%; }
+.cnnSASD_page-transactions .cnnSASD_stats TABLE TD.cnnCol1 A { font-weight:bold; }
+.cnnSASD_page-transactions .cnnSASD_stats TABLE .cnnRow1 TD.cnnCol1 { font-weight:bold; }
+.cnnSASD_page-player .cnnSASD_stats TABLE TD.cnnCol1 { width:25%; }
+.cnnSASD_page-player .cnnSASD_stats TABLE .cnnRow0 TD.cnnCol0 { width:7%; }
+.cnnSASD_page-player .cnnSASD_stats TABLE .cnnRow1 TD.cnnCol0 { width:7%; }
+.cnnSASD_page-player .cnnSASD_stats TABLE .cnnRow2 TD.cnnCol0 { width:7%; }
+.cnnSASD_page-game_by_game .cnnSASD_stats TABLE .cnnRow1 TD { padding:6px 8px; }
+.cnnSASD_page-game_by_game .cnnSASD_stats TABLE .cnnRow1 TD.cnnCol0 { padding:6px; }
+.cnnSASD_page-leaders .weeklyIndividualAllPurposeRunningStats TABLE .cnnRow1 TD,
+.cnnSASD_page-leaders .weeklyIndividualTotalOffenseStats TABLE .cnnRow1 TD { white-space:normal; }
+
+/* boxes */
+.cnnSASD_boxes DIV { border-top:1px solid #ccc;margin-top:6px; }
+.cnnSASD_boxes DIV.cnnSASD_box0 { border-top:0px;margin-top:0px; }
+.cnnSASD_boxes DIV DIV { border-top:0px;margin-top:0px; }
+.cnnSASD_boxes TABLE { width:100%; }
+.cnnSASD_boxes TABLE TD { font-size:10px;font-weight:bold;padding-top:6px;vertical-align:top;width:265px; }
+.cnnSASD_boxes TABLE TD .cnnTitle { border:0px solid #ccc;border-width:1px 1px 2px 1px;margin:0px;padding:6px;text-align:center; }
+.cnnSASD_boxes TABLE TD TABLE { border:0px solid #ccc;border-width:1px 1px 0px 1px; }
+.cnnSASD_boxes TABLE TD TABLE TD { padding:6px;text-align:center;vertical-align:bottom; }
+.cnnSASD_boxes TABLE TD TABLE TD.cnnCol0 { padding:11px 15px; }
+.cnnSASD_boxes TABLE TD TABLE TD.cnnCol1 { width:100%; }
+.cnnSASD_boxes TABLE TD TABLE TD DIV.cnnLine1 { border-top:1px solid #ccc;color:#5a6373;font-size:24px;font-weight:bold;margin-top:6px; }
+.cnnSASD_boxes TABLE TD UL { border:0px solid #ccc;border-width:1px 1px 0px 1px; }
+.cnnSASD_boxes TABLE TD LI { border-bottom:1px solid #ccc;padding:6px; }
+.cnnSASD_boxes TABLE TD LI DIV { border:none;float:right;margin:0px 0px 0px 6px; }
+.cnnSASD_boxes TABLE TD LI SPAN { font-weight:normal; }
+.cnnSASD_boxes TABLE TD .cnnFooter { border:0px solid #ccc;border-width:0px 1px 1px 1px;margin:0px;padding:6px; }
+.cnnSASD_boxes TABLE TD .cnnFooter A { background-image:url('http://i.cdn.turner.com/si/.element/img/4.0/global/arrows/gray_on_white_4x8.gif');background-position:0px 2px;background-repeat:no-repeat;color:#5a6373;padding-left:6px; }
+.cnnSASD_boxes TABLE TD .cnnFooter A:hover { color:#c00; }
+.cnnSASD_boxes TABLE TD.cnnCol1 { width:278px; }
+.cnnSASD_boxes TABLE TD.cnnCol1 .cnnTitle { margin:0px 6px; }
+.cnnSASD_boxes TABLE TD.cnnCol1 TABLE { margin:0px 6px;width:266px; }
+.cnnSASD_boxes TABLE TD.cnnCol1 UL { margin:0px 6px; }
+.cnnSASD_boxes TABLE TD.cnnCol1 .cnnFooter { margin:0px 6px; }
+
+/* player profile */
+.cnnSASD_playerprofile { border-bottom:1px solid #ccc;padding-bottom:6px; }
+.cnnSASD_playerprofile LI { background-image:url('http://i.cdn.turner.com/si/.element/img/4.0/global/arrows/ccc_bracket_M.jpg');background-repeat:no-repeat;font-size:10px;line-height:12px;padding:6px 9px; }
+.cnnSASD_playerprofile LI.cnnItemF { background-image:url('http://i.cdn.turner.com/si/.element/img/4.0/global/arrows/ccc_bracket_H.jpg'); }
+.cnnSASD_playerprofile LI.cnnItemL { background-image:url('http://i.cdn.turner.com/si/.element/img/4.0/global/arrows/ccc_bracket_F.jpg'); }
+.cnnSASD_playerprofile TABLE { width:808px; }
+
+/* polls */
+.cnnSASD_poll { padding-top:12px; }
+.cnnSASD_poll TABLE { border:0px solid #ccc;border-width:1px 1px 0px 1px;width:100%; }
+.cnnSASD_poll TABLE TD { border:0px solid #ccc;border-width:0px 0px 1px 1px;color:#333;font-size:10px;padding:6px;text-align:center; }
+.cnnSASD_poll TABLE TD SPAN { color:#666;font-weight:normal; }
+.cnnSASD_poll TABLE TD.cnnCol0 { border-left:0px; }
+.cnnSASD_poll TABLE TD.cnnCol1 { font-weight:bold;width:100%; }
+.cnnSASD_poll TABLE .cnnRow0 TD { font-weight:bold; }
+.cnnSASD_poll TABLE .cnnRow1 TD { border-bottom:3px solid #ccc;font-weight:bold;padding:6px 12px;white-space:nowrap; }
+.cnnSASD_poll TABLE .cnnRow1 TD.cnnCol0 { padding:6px; }
+.cnnSASD_poll TABLE .cnnRow2 TD.cnnCol0 { color:#5a6373;font-size:20px;font-weight:bold;padding:0px 6px; }
+.cnnSASD_poll TABLE .cnnRow2 TD.cnnCol1 { text-align:left; }
+.cnnSASD_poll TABLE .cnnRow2 TD.cnnCol4 { color:#666;font-size:20px;font-weight:bold;padding:0px 6px; }
+.cnnSASD_poll TABLE .cnnRow4 TD { border-left:0px; }
+
+.cnnSASD_gatewaynav { border-bottom:1px solid #ccc;color:#ccc;padding:6px;text-align:center; }
+.cnnSASD_gatewaynav A { color:#666;font-weight:bold; }
+.cnnSASD_gatewaynav A:hover { color:#c00; }
+.cnnSASD_gatewayFooter { padding-top:6px;text-align:center; }
+.cnnSASD_gatewayFooter A { background-image:url('http://i.cdn.turner.com/si/.element/img/4.0/global/arrows/gray_raquo_inc.gif');background-position:0px 3px;background-repeat:no-repeat;color:#666;font-weight:bold;padding-left:8px; }
+.cnnSASD_gatewayFooter A:hover { color:#c00; }
+
+.cnnStatsContentTitle { background-image:url('http://i.cdn.turner.com/si/.element/img/4.0/stats/global/gateway_header_M.jpg');margin:6px 0px; }
+.cnnStatsContentTitle DIV { background-image:url('http://i.cdn.turner.com/si/.element/img/4.0/stats/global/gateway_header_R.jpg');background-repeat:no-repeat;background-position:top right; }
+.cnnStatsContentTitle DIV DIV { background-image:url('http://i.cdn.turner.com/si/.element/img/4.0/stats/global/gateway_header_L.jpg');background-repeat:no-repeat;background-position:top left;color:#333;font-size:20px;font-weight:bold;line-height:32px;text-align:center; }
+.cnnStatsContentTitle DIV DIV DIV.cnnRight { background-image:none;float:right;font-size:10px;line-height:12px;padding:10px;text-align:right;width:150px; }
+.cnnStatsContentTitle DIV DIV DIV.cnnLeft { background-image:none;float:left;font-size:10px;line-height:12px;padding:10px;text-align:left;width:150px; }
+.cnnStatsContentTitle A { background-image:url('http://i.cdn.turner.com/si/.element/img/4.0/global/arrows/gray_raquo_inc.gif');background-position:0px 3px;background-repeat:no-repeat;color:#666;padding-left:8px; }
+.cnnStatsContentTitle A:hover { color:#c00; }
+
+.cnnSASD_confteams { border-bottom:1px solid #ccc; }
+.cnnSASD_confteams .cnnCol0 { padding-right:6px; }
+.cnnSASD_confteams .cnnCol1 { border-left:1px solid #ccc;font-size:10px;font-weight:bold;padding:6px 0px 6px 6px;text-align:center;width:100%; }
+.cnnSASD_confteams .cnnCol1 DIV { border-top:1px solid #ccc; }
+.cnnSASD_confteams .cnnCol1 DIV.cnnLine0 { border-top:0px; }
+.cnnSASD_confteams .cnnCol1 TABLE { margin:auto; }
+.cnnSASD_confteams .cnnCol1 TABLE TD { font-size:10px;font-weight:bold;padding:6px;text-align:center; }
+.cnnSASD_confteams .cnnCol1 TABLE TD IMG { margin:0px 24px 2px 24px; }
+.cnnSASD_confteams .cnnCol1 TABLE TD DIV { border-top:0px; }
+.cnnSASD_confteams .cnnCol1 TABLE TD A { color:#333; }
+.cnnSASD_confteams .cnnCol1 TABLE TD A:hover { color:#c00; }
+
+.cnnSASD_standings .cnnTitle { border:1px solid #ccc;color:#c00;font-size:12px;font-weight:bold;padding:3px 6px; }
+.cnnSASD_standings .cnnTitle A { color:#c00; }
+.cnnSASD_standings TABLE { width:100%; }
+.cnnSASD_standings TABLE TD { vertical-align:top; }
+.cnnSASD_standings TABLE TD.cnnCol1 { background-image:url('http://i.cdn.turner.com/si/.element/img/4.0/global/pixels/cccccc.gif');background-position:top center;background-repeat:repeat-y;width:13px; }
+.cnnSASD_standings TABLE TD TABLE { border:0px solid #ccc;border-width:0px 1px 0px 1px;margin-bottom:6px; }
+.cnnSASD_standings TABLE TD TABLE TD { border:0px solid #ccc;border-width:0px 0px 1px 1px;color:#333;font-size:10px;padding:6px;text-align:center;vertical-align:middle; }
+.cnnSASD_standings TABLE TD TABLE TD IMG { margin:2px 4px 2px 0px;vertical-align:middle; }
+.cnnSASD_standings TABLE TD TABLE TD.cnnCol0 { border-left:0px;font-weight:bold;text-align:left;width:100%; }
+.cnnSASD_standings TABLE TD TABLE TD.cnnCol1 { background-image:none;width:auto; }
+.cnnSASD_standings TABLE TD TABLE .cnnRow1 TD { border-bottom:3px solid #ccc;font-weight:bold;padding:3px 24px;white-space:nowrap; }
+.cnnSASD_standings TABLE TD TABLE .cnnRow1 TD.cnnCol0 { padding:3px 6px; }
+.cnnSASD_standings TABLE TD TABLE .cnnRow2 TD { background-color:#fff; }
+.cnnSASD_standings TABLE TD TABLE .cnnRow2 TD.cnnCol0 { padding:0px 6px; }
+.cnnSASD_standings TABLE TD TABLE .cnnRow3 TD { background-color:#e7e7e7; }
+.cnnSASD_standings TABLE TD TABLE .cnnRow4 TD { font-weight:bold; }
+.cnnSASD_standings TABLE TD TABLE .cnnRow4 TD.cnnCol0 { text-align:right; }
+
+.cnnSASD_listNav-alpha { padding-top:6px;text-align:center; }
+.cnnSASD_listNav-alpha TABLE { border-right:1px solid #ccc;margin:auto; }
+.cnnSASD_listNav-alpha A { color:#5a6373;display:block;width:30px; }
+.cnnSASD_listNav-alpha A.on { background-color:#5a6373;color:#fff; }
+.cnnSASD_listNav-alpha A:hover { background-color:#5a6373;color:#fff; }
+.cnnSASD_listNav-alpha TD { border:0px solid #ccc;border-width:1px 0px 1px 1px;font-size:18px;font-weight:bold;text-align:center; }
+
+/*
+ * .cnnSASD_listNav-position { padding-top:6px;text-align:center; }
+ * .cnnSASD_listNav-position TABLE { border-right:1px solid #ccc;margin:auto; }
+ * .cnnSASD_listNav-position A { color:#5a6373;display:block;width:56px; }
+ * .cnnSASD_listNav-position A.on { background-color:#5a6373;color:#fff; }
+ * .cnnSASD_listNav-position A:hover { background-color:#5a6373;color:#fff; }
+ * .cnnSASD_listNav-position TD { border:0px solid #ccc;border-width:1px 0px 1px 1px;font-size:18px;font-weight:bold;text-align:center; }
+ * */
+
+.cnnSASD_listNav-position { padding-top:6px; }
+.cnnSASD_listNav-position TABLE { border-right:1px solid #ccc;width:808px; }
+.cnnSASD_listNav-position A { color:#5a6373;display:block;width:100%; }
+.cnnSASD_listNav-position A.on { background-color:#5a6373;color:#fff; }
+.cnnSASD_listNav-position A:hover { background-color:#5a6373;color:#fff; }
+.cnnSASD_listNav-position TD { border:0px solid #ccc;border-width:1px 0px 1px 1px;font-size:18px;font-weight:bold;text-align:center;width:7%; }
+
+.cnnSASD_listNav-week { padding-top:6px; }
+.cnnSASD_listNav-week TABLE { border-right:1px solid #ccc;width:808px; }
+.cnnSASD_listNav-week A { color:#5a6373;display:block;width:100%; }
+.cnnSASD_listNav-week A.on { background-color:#5a6373;color:#fff; }
+.cnnSASD_listNav-week A:hover { background-color:#5a6373;color:#fff; }
+.cnnSASD_listNav-week TD { border:0px solid #ccc;border-width:1px 0px 1px 1px;color:#5a6373;font-size:18px;font-weight:bold;text-align:center;width:5%; }
+.cnnSASD_listNav-week TD.cnnColF { border:0px;color:#000;width:12%; }
+.cnnSASD_listNav-week TD.cnnColL { width:13%; }
+
+.cnnSASD_playerList { padding-top:6px; }
+.cnnSASD_playerList TABLE { width:100%; }
+.cnnSASD_playerList TABLE TD { border-left:1px solid #ccc;font-size:10px;padding:0px 6px;vertical-align:top;width:25%; }
+.cnnSASD_playerList TABLE TD.cnnCol0 { border-left:0px;padding-left:0px; }
+.cnnSASD_playerList TABLE TD LI { padding:3px 0px; }
+.cnnSASD_playerList TABLE TD LI A { color:#666; }
+.cnnSASD_playerList TABLE TD LI .cnnTitle { font-weight:bold; }
+.cnnSASD_playerList TABLE TD LI .cnnTitle A { color:#333; }
+.cnnSASD_playerList TABLE TD LI A:hover { color:#c00; }
+.cnnSASD_playerList P { color:#000;font-size:12px;font-weight:bold;padding-top:12px;text-align:center; }
+
