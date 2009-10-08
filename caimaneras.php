@@ -27,18 +27,9 @@
                   <div class="clsBanner"></div>
                   <!--START OF CONTENT-->
                   <div class="content clearfix">
-                    <CENTER>
-                        <span style = "color:black">
-                        <h2>Quieres saber donde practicar???</h2>
-                        <h2>  </h2><p><br>
-                          A continuación, le presentamos un mapa al cual todo el mundo puede contribuir. La idea es que cada persona agregue los mejores lugares donde caimanea. Puedes colocar una imagen, un video de youtube, así como una descripción del lugar. De tener requisitos, los agregas de modo que cualquier persona, sepa que necesita para usar esas instalaciones. Mientras más personas contribuyan, tendremos más lugares donde caimanear.
-                      </span><p><br>
-                    </CENTER>                  
-                    <CENTER>
-                    <iframe src='http://www.mapchannels.com/teamMaps/1722EE32DF424ABB8246A43678CB92C7/map.htm' style='width:800px;height:500px;border:solid 1px black' frameborder='0' marginwidth='0' marginheight='0' scrolling='off' ></iframe>
-                    </CENTER>                  
+                    <?php include("template/centerCaimaneras.php")?>
                   <!--END OF CONTENT-->
-                </div>
+                  </div>
                 </div>
               </div>
             </div>

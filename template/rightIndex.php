@@ -1,7 +1,7 @@
 <div class="sidebar2 clsFloatRight">
-  <!-- START COACHES CORNER-->
-  <?php include("template/rightCoachesCorner.php");?>
-  <!-- END COACHES CORNER-->
+  <!-- START REZAGADOS-->
+  <?php include("template/rightInfoRezagados.php");?>
+  <!-- END REZAGADOS-->
   <!-- START ULTIMOS JUEGOS-->
   <?php include("template/rightUltimoJuego.php");?>
   <!-- END ULTIMOS JUEGOS-->

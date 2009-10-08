@@ -1,3 +1,4 @@
+<li><a href="rezagados.php">Rezagados</a></li>
 <li><a href="foro.php">Foro</a></li>
 <li><a href="reglas.pdf">Reglas</a></li>
 <li><a href="caimaneras.php">Caimaneras</a></li>

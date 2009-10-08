@@ -29,16 +29,15 @@
                     <!--CONTENT-->
                     <div class="content clearfix">
                     <!--SIDEBAR1-->
-                     <?php include("template/leftEquipo.php");?>
-                     <?php include("template/leftEquipo.php");?>
-                     <?php include("template/leftEquipo.php");?>
-                     <?php include("template/leftEquipo.php");?>
-                     <?php include("template/leftEquipo.php");?>
-                     <?php include("template/leftEquipo.php");?>
-                     <?php include("template/leftEquipo.php");?>
-                     <?php include("template/leftEquipo.php");?>
-                    <!--END SIDEBAR1-->
-                   </div>
+                     <?php include("template/leftRezagados.php");?>
+                    <!--END OF SIDEBAR1-->
+                    <!-- SIDEBAR2-->
+                     <?php include("template/rightRezagados.php");?>
+                    <!--END OF SIDEBAR2-->
+                    <!--MAIN-->
+                      <?php include("template/centerRezagados.php");?>
+			              <!--END OF MAIN-->
+                    </div>
                 <!--END OF CONTENT-->
               </div>
               <!--END OF CLSCENTERBOX-->
