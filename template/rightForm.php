@@ -26,13 +26,7 @@
                         <option value="audi">Volante</option>
                       </select>
                     </p>
-                    <p>Equipo<br/>
-                      <select name="Equipo">
-                        <option value="volvo">Chicas Polar</option>
-                        <option value="saab">Dinho</option>
-                        <option value="fiat">Nuevo Grupo</option>
-                      </select>
-                    </p>
+                    <?php include("sql/getEquipos.php")?>
                     <p>Antecedentes:<br/>
                       <textarea cols="22" rows="5"></textarea>
                     </p>
