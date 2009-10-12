@@ -26,7 +26,9 @@
                         <option value="audi">Volante</option>
                       </select>
                     </p>
+                    <p>Equipo:<br/>
                     <?php include("sql/getEquipos.php")?>
+                    </p>
                     <p>Antecedentes:<br/>
                       <textarea cols="22" rows="5"></textarea>
                     </p>

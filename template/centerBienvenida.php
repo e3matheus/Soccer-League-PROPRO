@@ -16,7 +16,8 @@
                       <UL>
                         <LI><a href = "calendario.php">El calendario de eventos</a>
                         <LI><a href = "integrantes.php">Información de cada grupo</a>
-                        <LI><a href = "caimaneras.php">Info sobre Caimaneras
+                        <LI><a href = "caimaneras.php">Info sobre Caimaneras</a>
+                        <LI><a href = "foro.php">Foro de Sugerencias</a>
                       </UL>
                     </div>
                     <p class="clsbot">Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical</p>	

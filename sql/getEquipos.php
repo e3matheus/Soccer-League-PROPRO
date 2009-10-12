@@ -1,5 +1,4 @@
 <?php
-session_start();
 
 include("connect.php");
 
@@ -10,9 +9,9 @@ $result = mysql_query($sql);
 $rows = mysql_fetch_array($result);
 
 echo "<select name = 'Equipo'>";
-for each $row in $rows
-    echo "<option value = '$row[nombre]'>'$row[nombre]'</option>";
-end
-echo "</select>"
+foreach ($row as $rows){
+    echo "<option value = ".$row[nombre].">".$row[nombre]."</option>";
+}
+echo "</select>";
 
 ?>

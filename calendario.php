@@ -12,7 +12,7 @@
   <!--HEADER-->
   <?php include("template/header2.php");?>
    <!--END OF HEADER-->
-  <!--MAINBOX-->
+ <!--MAINBOX-->
   <div id="main_box">
     <div class="clsBottom">
       <div class="clsTop">
@@ -27,10 +27,8 @@
                   <div class="clsBanner"></div>
                   <!--START OF CONTENT-->
                     <CENTER>
-
-                    <iframe src="http://www.google.com/calendar/embed?mode=WEEK&amp;showTitle=0&amp;showCalendars=0&amp;shoTz=0&amp;height=600&amp;wkst=2&amp;hl=es&amp;bgcolor=%2366cccc&amp;src=361icgpf3ra0i1kgls38g45dho%40group.calendar.google.com&amp;color=%231B887A&amp;ctz=America%2FCaracas" style=" border:solid 1px #777 " width="900" height="600" frameborder="0" scrolling="no"></iframe>
-
-                    </CENTER>                  
+                      <iframe src="http://www.google.com/calendar/embed?showTitle=0&amp;showTz=0&amp;height=600&amp;mode=WEEK&amp;wkst=1&amp;bgcolor=%23c0c0c0&amp;src=5dqn1fla59ap72dolo3alnqbjg%40group.calendar.google.com&amp;color=%23AB8B00&amp;src=946keivrdpd4agf4fthfenu7ho%40group.calendar.google.com&amp;color=%232952A3&amp;src=361icgpf3ra0i1kgls38g45dho%40group.calendar.google.com&amp;color=%23705770&amp;ctz=America%2FCaracas" style=" border:solid 1px #777 " width="800" height="600" frameborder="0" scrolling="no"></iframe>
+                   </CENTER>                  
                   <!--END OF CONTENT-->
                 </div>
               </div>

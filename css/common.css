@@ -48,6 +48,11 @@ input , select {
 .clsFloatLeft {
 	float:left;
 }
+.clsFloatLeftb {
+	float:left;
+  margin: 0 0 10px 12px;
+}
+
 .clsFloatRight {
 	float:right;
 }
@@ -90,8 +95,8 @@ input , select {
 	display:block;
 }
 #selLogo h1 {
-	background:url(../images/logo.png) no-repeat;
-	width:288px;
+	background:url(../images/logoPP.png) no-repeat;
+	width:500px;
 	height:52px;
 }
 #selLogo{

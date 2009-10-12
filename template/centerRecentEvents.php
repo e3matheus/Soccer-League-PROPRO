@@ -1,14 +1,13 @@
 <div id="selEvents">
-  <h2>featured events</h2>
+  <h2>Informaciones Importantes</h2>
   <ul>
     <li>
-      <p><span>18.06.09</span></p>
-      <p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Lat</p>
+      <p><span>11.10.09</span></p>
+      <p>Inscripciones abiertas hasta el viernes de la semana 5. Aprovechen e inscribanse!</p>
     </li>
     <li>
-      <p><span>18.06.09</span></p>
-      <p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Lat</p>
+      <p><span>08.10.09</span></p>
+      <p>El precio de las inscripciones esta en 5 BsF/persona y 15BsF/equipo. </p>
     </li>
   </ul>
 </div>
-<p class="clsRead"><a href="#">Read more</a></p>

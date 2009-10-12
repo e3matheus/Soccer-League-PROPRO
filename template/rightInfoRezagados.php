@@ -11,9 +11,11 @@
                   <div id="selCoaches">
                   <p><a href="#"><img src="images/side_img1.jpg" alt="" /></a></p>
                   <p class="clsGray"> Quieres participar pero no tienes equipo?</p>
-                  <p><span>Si nos envias tus datos,</span> podrías ser reservado por un equipo existente o se forma un equipo de rezagados <a href="rezagados.php">Aprenda mas</a></p>
+                  <p><span>Si nos envias tus datos,</span> podrías ser reservado por un equipo existente o se forma un equipo de rezagados 
+                  </p>
                   </div>
                 </div>
+                  <p class="clsRead"><a href="#"><span style="color=blue">Mas Info</span></a></p>
               </div>
             </div>
           </div>

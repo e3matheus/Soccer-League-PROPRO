@@ -1,4 +1,4 @@
-<div class="sidebar1 clsFloatLeft">
+<div class="sidebar1 clsFloatLeftb">
   <h3>Omar Ermini</h3>
   <div class="inner_tb">
     <div class="inner_bb">
@@ -17,7 +17,6 @@
                         <p>There are many variations of passages of Lorem Ipsum available, but Contrary , </p>
                       </div>
                       <p class="clsbot">Contrary to popular belief, Lorem Ipsum is not simply random text.</p>
-                      <p><a href="#">learn more</a></p>
                     </div>
                   </div>
                 </div>
